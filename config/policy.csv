@@ -1,0 +1,2 @@
+p, true, true, read_api_logs, /api_logs/*, read
+p, true, false, read_api_logs, /api_logs, read
